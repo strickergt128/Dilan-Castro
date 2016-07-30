@@ -1,0 +1,29 @@
+.Image{
+	border-radius:75%;
+	border:2px solid #303841;
+	width:200px;
+}
+body{
+	background:url("../Fondo.jpg") no-repeat fixed;
+	-o-background-size:cover;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	background-size:cover;
+}
+.font{
+	font-size:50px;
+}
+.List{
+	border:2px solid #E5FCC2;
+	padding-top:2%;
+	padding-bottom:2%;
+	line-height:200%;
+	color:#57D131;
+	font-family: 'Lobster', cursive;
+	font-size:20px;
+}
+.font3{
+	font-size:20px;
+	color:#D1E4D1;
+	font-family: 'Bangers', cursive;
+}
