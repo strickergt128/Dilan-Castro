@@ -1,0 +1,29 @@
+.Text{
+	font-family: 'Special Elite', cursive;
+	color:#FFFACD;
+	font-size:60px;
+	text-align:center; 
+}
+body{
+	background:url("../Fondo.jpg")no-repeat fixed;
+	-webkit-background-size:cover;
+	-o-background-size:cover;
+	-moz-background-size:cover;
+	background-size:cover;
+	text-align:center;  
+}
+.Text1{
+	font-family: 'Alice', serif;
+	color:#537780;
+	font-size:20px;
+
+}
+#Image{
+	width:200px;
+
+}
+
+div{
+	border:1px solid white;
+
+}
